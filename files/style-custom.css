@@ -1,0 +1,28 @@
+
+    body,
+    h1 {
+        font-family: "Raleway", sans-serif
+    }
+
+    body,
+    html {
+        height: 100%
+    }
+
+    .bgimg {
+        background-image: url('./images/forestbridge.jpg');
+        min-height: 100%;
+        background-position: center;
+        background-size: cover;
+    }
+
+    .custom-jumbotron {
+        padding: 15px !important;
+    }
+
+    .editor {
+        width: 100%;
+        height: 500px;
+        color: black;
+        font-size: large;
+    }
